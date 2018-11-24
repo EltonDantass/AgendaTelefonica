@@ -9,5 +9,6 @@ public class act3 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_act3);
+        setTitle("MINHA AGENDA");
     }
 }
